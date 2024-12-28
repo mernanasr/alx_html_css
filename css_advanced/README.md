@@ -1,5 +1,3 @@
-# alx_html_css
-ALX HTML &amp; CSS Advanced Project
 # Project: ALX HTML & CSS Advanced
 
 ## Objective
@@ -44,4 +42,3 @@ The focus of this project is on CSS and styling the page based on the provided d
 - Push your completed files to the `alx_html_css` repository.
 - Verify all links, assets, and styles render correctly.
 
-Good luck and happy coding!
