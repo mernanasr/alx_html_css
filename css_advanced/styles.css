@@ -34,6 +34,17 @@ nav a {
     display: flex;
     align-items: center;
     justify-content: center;
+    <img src="assets/images/logo.png" alt="Logo">
+    @font-face {
+        font-family: 'Source Sans Pro';
+        src: url('assets/fonts/SourceSansPro-Regular.ttf') format('truetype');
+    }
+    
+    @font-face {
+        font-family: 'Spin Cycle OT';
+        src: url('assets/fonts/SpinCycleOT-Regular.otf') format('opentype');
+    }
+    
 }
 
 .hero h1 {
